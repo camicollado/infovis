@@ -14,3 +14,5 @@ Trabajos prácticos
 [#makeovermonday Week 11](https://camicollado.github.io/infovis/momweek11.html)
 
 [3 formas de mostrar la población de Argentina](https://camicollado.github.io/infovis/poblacionargentina.html)
+
+[TP Datos Personales](https://camicollado.github.io/infovis/datospersonales.html)
