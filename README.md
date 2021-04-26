@@ -16,3 +16,5 @@ Trabajos prácticos
 [3 formas de mostrar la población de Argentina](https://camicollado.github.io/infovis/poblacionargentina.html)
 
 [TP Datos Personales](https://camicollado.github.io/infovis/datospersonales.html)
+
+[Captura TP Datos Personales](https://camicollado.github.io/infovis/Captura TP Datos Personales.html)
