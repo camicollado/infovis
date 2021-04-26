@@ -17,4 +17,4 @@ Trabajos prácticos
 
 [TP Datos Personales](https://camicollado.github.io/infovis/datospersonales.html)
 
-[Captura TP Datos Personales](https://camicollado.github.io/infovis/Captura TP Datos Personales.html)
+
