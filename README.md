@@ -18,3 +18,6 @@ Trabajos prácticos
 [TP Datos Personales](https://camicollado.github.io/infovis/datospersonales.html)
 
 [Captura TP Datos Personales](https://camicollado.github.io/infovis/capturaDatosPersonales.png)
+
+[Foto cara](https://camicollado.github.io/infovis/foto cara 1.png)
+
