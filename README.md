@@ -1,7 +1,7 @@
 # infovis
 
 ## Visualizaciones
-+ [Seats Held by Women in Parliament | #makeovermonday Week 9](https://camicollado.github.io/infovis/Seats Held by Women in Parliament 3.pdf)
++ [Seats Held by Women in Parliament | #makeovermonday Week 9](https://camicollado.github.io/infovis/Seats%20Held%20by%20Women%20in%20Parliament%20Grafico%203.pdf)
 
 + [Crops around the world | #makeovermonday Week 11](https://camicollado.github.io/infovis/momweek11.html)
 
