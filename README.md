@@ -9,6 +9,8 @@
 
 + [¿Qué tomo en un día? | TP Datos Personales](https://camicollado.github.io/infovis/datospersonales.html)
 
+## Otros
+
 [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
 [gh-pages](https://camicollado.github.io/infovis/index.html)
