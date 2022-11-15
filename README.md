@@ -23,4 +23,4 @@
 
 [Foto cara](https://camicollado.github.io/infovis/fotocara.png)
 
-[Mapa](https://camicollado.github.io/infovis/mapa_estacionamiento_caba.png)
+[Mapa](https://camicollado.github.io/infovis/mapa_estacionamiento_caba.html)
